@@ -14,6 +14,9 @@
 
 	<properties>
 		<java.version>17</java.version>
+		<sonar.organization>diegobotia</sonar.organization>
+		<sonar.projectKey>diegobotia_labudem</sonar.projectKey>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
